@@ -3,7 +3,6 @@
 - 📫 How to reach me
   - @LinkedIn: https://www.linkedin.com/in/eadrian-basila-b60016201/
   - @Gmail: basilaeadrian@gmail.com
-  - @Work: eadrian.basila@packetworx.com
   - @University: embasila@iskolarngbayan.pup.edu.ph
 
 <!---

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EadrianBasila
-- 👀 I’m interested in Robotics, Internet of Things, Software Development, and Machine Learning
+- 👀 I’m interested in  Cross-platform Software Development, Robotics, Internet of Things, and Machine Learning
 - 📫 How to reach me
+  - @Artemis: eadrian.basila@artemissustainability.tech
   - @LinkedIn: https://www.linkedin.com/in/eadrian-basila-b60016201/
-  - @Gmail: basilaeadrian@gmail.com
   - @University: embasila@iskolarngbayan.pup.edu.ph
 
 <!---
